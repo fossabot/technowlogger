@@ -26,6 +26,9 @@
 
 TechNowLogger is Keylogger Generator for Windows/Linux, which sends key-logs & screenshot via email with other juicy target info written in Python 3.
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSiGi2596%2Ftechnowlogger.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSiGi2596%2Ftechnowlogger?ref=badge_large)
+
 ## Disclaimer
 <p align="center">
   :computer: This project was created only for good purposes and personal use.
@@ -51,7 +54,8 @@ THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS
 - [x] **Built-in Binder** which can bind Keylogger to **Any File** [.pdf, .txt, .exe etc], Running legitimate file on front end & evil codes in back-end as a service. **(New Argument is Added in v1.4 & onward version)**
 
 ## Tested On
-[![Kali)](https://www.google.com/s2/favicons?domain=https://www.kali.org/)](https://www.kali.org) **Kali Linux - ROLLING EDITION**
+[![Kali)](https://www.google.com/s2/favicons?domain=https://www.kali.org/)](https://www.kali.org) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSiGi2596%2Ftechnowlogger.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSiGi2596%2Ftechnowlogger?ref=badge_shield)
+**Kali Linux - ROLLING EDITION**
 
 [![Windows)](https://www.google.com/s2/favicons?domain=https://www.microsoft.com/en-in/windows/)](https://www.microsoft.com/en-in/windows/) **Windows 8.1 - Pro**
 
